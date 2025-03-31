@@ -1,19 +1,17 @@
-/**
+# 2ru-TIDES-OF-MANILA
  * This is to certify that this project is my own work, based on my personal efforts in studying
  * and applying the concepts learned. I have constructed the functions and their respective
  * algorithms and corresponding code by myself. The program was run, tested, and debugged by
  * my own efforts. I further certify that I have not copied in part or whole or otherwise
  * plagiarized the work of other students and/or persons.
- *
- *                                   <Neil Jr. L. Gutang> <#12410225>
- */
+ ---
 
 
 # How to Run Program?
 
 Open cmd or pwsh
-1. `gcc -Wall -std=c99 main.c gamebackend.c`
-2. `./a.exe`
+1. `gcc -Wall -std=c99 main.c gamebackend.c -o game`
+2. `./game`
 3. Code should be compiled and executable
 
 # Issue with displaying the ASCII Art? Enable UTF-8 in Powershell Windows
@@ -33,11 +31,10 @@ $OutputEncoding = [console]::InputEncoding = [console]::OutputEncoding = New-Obj
 
 2. In the event that it is looping, simply kill the terminal and run back the program.
 
-# I have found bugs or logical errors in the code.
+---
+
+### I have found bugs or logical errors in the code.
 
 1. Contact me:
-neil_gutang_jr@dlsu.edu.ph (Email)
 kougetsu_shima (Discord)
-shinobinomono_17 (Telegram)
 
-Thank you for using my program :3
