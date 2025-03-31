@@ -1,6 +1,7 @@
 Description:  Changelog Files for the turn-based game "Tides of Manila: A Merchant's Quest" 
 Programmed by: <Neil Jr. L. Gutang>
-Last modified: 2024-10-21
+Last modified: 2024-11-21
+*Changelogs were done before the creation of this git repo*
 
 # Change Log
 All notable changes to this project will be documented in this file.
