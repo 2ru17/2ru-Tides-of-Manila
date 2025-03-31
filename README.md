@@ -1,1 +1,0 @@
-# CCPROG1-MP-2ru
