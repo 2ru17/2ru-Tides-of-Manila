@@ -36,9 +36,5 @@ $OutputEncoding = [console]::InputEncoding = [console]::OutputEncoding = New-Obj
 2. In the event that it is looping, simply kill the terminal and run back the program.
 
 ---
-
-### I have found bugs or logical errors in the code.
-
-1. Contact me:
-kougetsu_shima (Discord)
+*This git repo will be archived until I get the motivation to do the changes as mentioned in the ver. release notes :>*
 
