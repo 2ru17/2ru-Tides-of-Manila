@@ -10,24 +10,34 @@
 - A turn only counts when the player used the **"Travel"** option in the game.
 - There is a another feature in where a **random "Storm"** will occur depending on the difficulty the player has selected. *(This is not included in the main MP guidelines, but rather a bonus function for the game.)*
 ---
+# Clone this Repository
+```sh
+git clone https://github.com/2ru17/2ru-Tides-of-Manila.git
+```
 
+---
 # How to Run Program?
 
 Open cmd or pwsh
-1. `gcc -Wall -std=c99 main.c gamebackend.c -o game`
-2. `./game`
-3. Code should be compiled and executable
+1. ```sh
+   gcc -Wall -std=c99 main.c gamebackend.c -o game
+3. ```sh
+   ./game
+5. Code should be compiled and executable
 
 # Issue with displaying the ASCII Art? Enable UTF-8 in Powershell Windows
 
 > Check Powershell version
 
 ## Poweshell Core (7.X)
+```sh
 [console]::InputEncoding = [console]::OutputEncoding = New-Object System.Text.UTF8Encoding
+```
 
 ## Windows Powershell (5.1)
+```sh
 $OutputEncoding = [console]::InputEncoding = [console]::OutputEncoding = New-Object System.Text.UTF8Encoding
-
+```
 
 # Why is my Program Looping?
 
