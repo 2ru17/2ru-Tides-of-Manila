@@ -4,8 +4,12 @@
  * algorithms and corresponding code by myself. The program was run, tested, and debugged by
  * my own efforts. I further certify that I have not copied in part or whole or otherwise
  * plagiarized the work of other students and/or persons.
- ---
-
+---
+# What is the Program about?
+- It is a **CLI turn-based buy/sell game** in where there are 4 places with items that have varying prices, and the end goal is to **reach the specified profit** using the specified gold as inputted by the player wihtin the amount of allowed turns (30 turns).
+- A turn only counts when the player used the **"Travel"** option in the game.
+- There is a another feature in where a **random "Storm"** will occur depending on the difficulty the player has selected. *(This is not included in the main MP guidelines, but rather a bonus function for the game.)*
+---
 
 # How to Run Program?
 
